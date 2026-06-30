@@ -192,8 +192,4 @@ terraform destroy
 **Terraform to EKS**
 [Get it here](https://github.com/ashok01thapa/Terraform_for_Devops/tree/main/terraform-eks)
 
-## Connect
 
-If you have feedback or suggestions, feel free to open an issue or reach out!
-
-⭐ If you find this useful for your own Terraform learning, consider starring the repo.
