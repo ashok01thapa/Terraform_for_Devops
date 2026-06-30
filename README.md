@@ -188,8 +188,12 @@ terraform destroy
 4. **Production patterns** → `terraform-eks/` — managed Kubernetes cluster with EKS
 
 ## Projects
+
+### Terraform EC2 Instance
+[Get it here](https://github.com/ashok01thapa/Terraform_for_Devops/tree/main/terraform-for-devops)
  
 ### Terraform to EKS
 [Get it here](https://github.com/ashok01thapa/Terraform_for_Devops/tree/main/terraform-eks)
+
 
 
