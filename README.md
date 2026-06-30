@@ -189,7 +189,7 @@ terraform destroy
 
 ## Projects
 
-### Terraform EC2 Instance
+### Terraform with EC2 Instance
 [Get it here](https://github.com/ashok01thapa/Terraform_for_Devops/tree/main/terraform-for-devops)
  
 ### Terraform to EKS
