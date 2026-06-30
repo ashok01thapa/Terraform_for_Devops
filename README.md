@@ -187,6 +187,17 @@ terraform destroy
 3. **Modularity** → `terraform-modules-app/` — breaking infrastructure into reusable modules
 4. **Production patterns** → `terraform-eks/` — managed Kubernetes cluster with EKS
 
+## Projects
+ 
+**Terraform with Ansible**
+[Get it here](https://github.com/LondheShubham153/terraform-ansible-multi-env)
+ 
+**Terraform with GitHub**
+[Get it here](https://github.com/Amitabh-DevOps/online_shop/tree/github-action/.github/workflows)
+ 
+**Terraform to EKS**
+[Get it here](https://github.com/ashok01thapa/Terraform_for_Devops/tree/main/terraform-eks)
+
 ## Connect
 
 If you have feedback or suggestions, feel free to open an issue or reach out!
